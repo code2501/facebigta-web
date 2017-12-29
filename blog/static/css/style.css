@@ -71,3 +71,11 @@ footer.page-footer {
   src: url("../fonts/klavika/KlavikaLight-OSF_1.otf")format("truetype");
 }
 
+.parallax img{
+  position:static;
+}
+
+.tab a.active {
+  color:rgb(252, 234, 37)!important;
+  background-color:rgb(3, 169, 244)!important;
+}
